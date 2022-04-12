@@ -1,0 +1,52 @@
+abc
+Abc
+abcd
+aaabc
+ 
+
+     
+1
+a
+123
+
+ 
+\
+\\
+ab12
+ab 1
+ab1
+aB5
+a b
+ab
+a    b
+ab
+cd
+abcd
+abwx
+abyz
+cdwx
+cdyz
+abcdewxyz
+wxyz
+abcd
+
+A
+AaAAa
+aaaaaaaaaa
+     a     
+b
+ab
+aaaaaaaaab
+
+b\
+b/
+ab\
+ab/
+aaaaaaab\
+aaaaaaab/
+ab\\
+ab/\
+ab\/
+123
+      123    
+aaaa 
